@@ -1,4 +1,4 @@
-package flujosbytes;
+package bytesstream;
 
 import java.io.*;
 

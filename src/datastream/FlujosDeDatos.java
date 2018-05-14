@@ -1,4 +1,4 @@
-package flujosdatos;
+package datastream;
 
 import java.io.*;
 

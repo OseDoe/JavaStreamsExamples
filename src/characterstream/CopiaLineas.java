@@ -1,4 +1,4 @@
-package flujoscaracteres;
+package characterstream;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package comparefiles;
+package randomaccessfiles;
 
 import java.io.*;
 
@@ -25,7 +25,7 @@ public class RandomAccessDemo {
 			d = file.readDouble();
 			System.out.println("Second value is " + d);
 			
-			file.seek(8 * 3); // Looks for the fourth double
+			file.seek(8 * 3); // Looks for the fourth double 
 			d = file.readDouble();
 			System.out.println("Fourth value is " + d);
 			

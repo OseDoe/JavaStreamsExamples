@@ -1,4 +1,4 @@
-package flujosestandar;
+package standardstream;
 
 import java.io.*;
 
